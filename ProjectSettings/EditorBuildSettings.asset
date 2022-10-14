@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Minijuego_1/Inicio.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Principal.unity
+    guid: f0ed6489b323840f69d28e882e5760b2
+  - enabled: 1
+    path: Assets/Scenes/Minijuego_1/Fin.unity
+    guid: c8c4b2f75f63c4057a534f4099809727
+  - enabled: 1
+    path: Assets/Scenes/Minijuego_1/Ejercicio_6.unity
+    guid: 52fb6a6eda1dfc54b9a9ae29a7894bbd
+  m_configObjects: {}
